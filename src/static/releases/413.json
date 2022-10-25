@@ -1,0 +1,160 @@
+{
+  "results": [
+    {
+      "id": 43991,
+      "uuid": "0ff92b20-0563-43b2-88c1-c05928579271",
+      "type": 0,
+      "isEvent": false,
+      "method": "온라인 선착순",
+      "releaseMarket": {
+        "name": "NIKE US",
+        "icon": "https://static.shoeprize.kr/site/icon/NIKE_US-6350487e-55e7-11ec-81e7-0abb6fb3d682.jpg"
+      },
+      "closedTimestamp": 1665756600000,
+      "shippingMethod": "배대지",
+      "region": "미국"
+    },
+    {
+      "id": 47690,
+      "uuid": "30bf3b41-9601-43c6-ad3c-b74d4811c856",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 문자 발송",
+      "releaseMarket": {
+        "name": "ABC마트 그랜드스테이지",
+        "icon": "https://static.shoeprize.kr/site/icon/ABC%EB%A7%88%ED%8A%B8_%EA%B7%B8%EB%9E%9C%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80-32760f00-5311-11ec-8398-029d094b4536.jpg"
+      },
+      "closedTimestamp": 1665586740000,
+      "shippingMethod": "국내배송",
+      "region": "한국"
+    },
+    {
+      "id": 48697,
+      "uuid": "de9beb49-3ae8-49a1-9205-b1baac202f3f",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 문자 발송",
+      "releaseMarket": {
+        "name": "나이키 의왕점",
+        "permalink": "nike-uiwang",
+        "icon": "https://static.shoeprize.kr/site/icon/%EB%82%98%EC%9D%B4%ED%82%A4_%EC%9D%98%EC%99%95%EC%A0%90-f841917c-55e7-11ec-85d9-0abb6fb3d682.jpg"
+      },
+      "closedTimestamp": 1665457200000,
+      "shippingMethod": "매장 수령",
+      "region": "한국"
+    },
+    {
+      "id": 45892,
+      "uuid": "a22ca8f7-3426-45df-a8c9-f7611cca454c",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 메일 발송",
+      "releaseMarket": {
+        "name": "FOOTDISTRICT",
+        "icon": "https://static.shoeprize.kr/site/icon/FOOTDISTRICT-dd377594-5318-11ec-b94f-0abb6fb3d682.jpg"
+      },
+      "closedTimestamp": 1665186300000,
+      "shippingMethod": "배대지",
+      "region": "스페인"
+    },
+    {
+      "id": 45321,
+      "uuid": "50d1b6df-98d1-4ff6-bb98-b20e4e21f781",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 메일 발송",
+      "releaseMarket": {
+        "name": "UPTOWN Deluxe",
+        "icon": "https://static.shoeprize.kr/site/icon/UPTOWN_Deluxe-7b985a34-7059-11ec-8815-0a5aafa24ada.jpg"
+      },
+      "closedTimestamp": 1665111600000,
+      "shippingMethod": "배대지",
+      "region": "일본"
+    },
+    {
+      "id": 45430,
+      "uuid": "9ddaf554-d1a0-432f-814b-72f49477aaf8",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 문자 발송",
+      "releaseMarket": {
+        "name": "나이키 서울",
+        "icon": "https://static.shoeprize.kr/site/icon/%EB%82%98%EC%9D%B4%ED%82%A4_%EC%84%9C%EC%9A%B8-cda2310a-55e8-11ec-abdc-024da4cc8be8.jpg"
+      },
+      "closedTimestamp": 1664521200000,
+      "shippingMethod": "매장 수령",
+      "region": "한국"
+    },
+    {
+      "id": 43141,
+      "uuid": "6ce0a858-898c-4a22-a02c-196ac6cb87e5",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 메일 발송",
+      "releaseMarket": {
+        "name": "AFEW-STORE",
+        "icon": "https://static.shoeprize.kr/site/icon/AFEW-STORE-cf3571e4-5313-11ec-8ecc-0abb6fb3d682.jpg"
+      },
+      "closedTimestamp": 1664175600000,
+      "shippingMethod": "배대지",
+      "region": "독일"
+    },
+    {
+      "id": 44818,
+      "uuid": "23fed23b-25ce-4baa-8bcc-1194e7615e40",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 문자 발송",
+      "price": "￦129,000",
+      "releaseMarket": {
+        "name": "나이키 서면",
+        "icon": "https://static.shoeprize.kr/site/icon/%EB%82%98%EC%9D%B4%ED%82%A4_%EC%84%9C%EB%A9%B4-051437a6-55e8-11ec-a0ef-0abb6fb3d682.jpg"
+      },
+      "closedTimestamp": 1664172000000,
+      "shippingMethod": "매장 수령",
+      "region": "한국"
+    },
+    {
+      "id": 44361,
+      "uuid": "39d938af-2f25-470e-980a-8adb35fc531f",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 메일 발송",
+      "releaseMarket": {
+        "name": "SNS *IN APP",
+        "icon": "https://static.shoeprize.kr/site/icon/SNS_IN_APP-ffa63f46-4cc1-11ec-9e1b-026203d2c2d6.jpg"
+      },
+      "closedTimestamp": 1664172000000,
+      "shippingMethod": "배대지",
+      "region": "스웨덴"
+    },
+    {
+      "id": 44050,
+      "uuid": "169ee95b-793b-4689-9a8b-067f8994f53c",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 메일 발송",
+      "releaseMarket": {
+        "name": "UNDEFEATED JP",
+        "icon": "https://static.shoeprize.kr/site/icon/UNDEFEATED_JP-c565d4e8-545c-11ec-a0ef-0abb6fb3d682.jpg"
+      },
+      "closedTimestamp": 1664074800000,
+      "shippingMethod": "배대지",
+      "region": "일본"
+    },
+    {
+      "id": 43959,
+      "uuid": "d4029e49-1929-4441-b4e4-b39b5de79d6d",
+      "type": 1,
+      "isEvent": false,
+      "method": "당첨 문자 발송",
+      "releaseMarket": {
+        "name": "나이키 대전 갤러리아 타임월드점",
+        "icon": "https://static.shoeprize.kr/site/icon/%EB%82%98%EC%9D%B4%ED%82%A4_%EB%8C%80%EC%A0%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%95%84_%ED%83%80%EC%9E%84%EC%9B%94%EB%93%9C%EC%A0%90-39dbd4b0-3889-11ed-abb3-021b959476ae.jpeg"
+      },
+      "closedTimestamp": 1663808400000,
+      "shippingMethod": "매장 수령",
+      "region": "한국"
+    }
+  ]
+}

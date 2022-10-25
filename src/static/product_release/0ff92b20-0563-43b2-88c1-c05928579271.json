@@ -1,0 +1,32 @@
+{
+  "uuid": "0ff92b20-0563-43b2-88c1-c05928579271",
+  "type": 0,
+  "method": "온라인 선착순",
+  "url": "https://redirect.viglink.com/?key=16299872f717c175604ea5f3051199bb&prodOvrd=WRA&u=https%3A%2F%2Fwww.nike.com%2Ft%2Fdunk-low-retro-mens-shoes-8t3K7k%2FDD1391-100",
+  "price": "$110",
+  "releaseMarket": {
+    "name": "NIKE US",
+    "icon": "https://static.shoeprize.kr/site/icon/NIKE_US-6350487e-55e7-11ec-81e7-0abb6fb3d682.jpg",
+    "channels": [
+      {
+        "type": "instagram",
+        "link": "https://www.instagram.com/nike/",
+        "typeName": "인스타그램"
+      },
+      {
+        "type": "homepage",
+        "link": "https://www.instagram.com/nikesnkrs_release/",
+        "typeName": "홈페이지"
+      }
+    ]
+  },
+  "closedTimestamp": 1669939200000,
+  "product": {
+    "brandName": "NIKE",
+    "name": "나이키 덩크 로우 레트로 화이트 블랙",
+    "thumb": "https://static.shoeprize.kr/Raffle/thumb/DD1391-100-shoeprize-NIKE-DUNK-LOW-RETRO-WHITE-BLACK-413-1629349056698.jpg",
+    "code": "DD1391-100"
+  },
+  "shippingMethod": "배대지",
+  "payMethod": "온라인 구매"
+}

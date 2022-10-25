@@ -1,0 +1,28 @@
+{
+  "uuid": "23fed23b-25ce-4baa-8bcc-1194e7615e40",
+  "type": 1,
+  "method": "당첨 문자 발송",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSftOVbLPQFOsEY3W3eD88C1hXSw9z9svcwwvlAy5oFVyOB0sQ/viewform",
+  "price": "￦129,000",
+  "releaseMarket": {
+    "name": "나이키 서면",
+    "icon": "https://static.shoeprize.kr/site/icon/%EB%82%98%EC%9D%B4%ED%82%A4_%EC%84%9C%EB%A9%B4-051437a6-55e8-11ec-a0ef-0abb6fb3d682.jpg",
+    "channels": [
+      {
+        "type": "instagram",
+        "link": "https://www.instagram.com/sl_nike_seomyeon/",
+        "typeName": "인스타그램"
+      }
+    ]
+  },
+  "closedTimestamp": 1664172000000,
+  "product": {
+    "id": 413,
+    "brandName": "NIKE",
+    "name": "나이키 덩크 로우 레트로 화이트 블랙",
+    "thumb": "https://static.shoeprize.kr/Raffle/thumb/DD1391-100-shoeprize-NIKE-DUNK-LOW-RETRO-WHITE-BLACK-413-1629349056698.jpg",
+    "code": "DD1391-100"
+  },
+  "shippingMethod": "매장 수령",
+  "payMethod": "오프라인 구매"
+}

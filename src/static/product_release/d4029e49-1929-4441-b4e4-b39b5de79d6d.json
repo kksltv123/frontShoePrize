@@ -1,0 +1,27 @@
+{
+  "uuid": "d4029e49-1929-4441-b4e4-b39b5de79d6d",
+  "type": 1,
+  "method": "당첨 문자 발송",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSd62v__8ZxlUA2BANOW1octBBK-vcZ62BAAt4v_7Hfp4WksGQ/viewform",
+  "price": "￦129,000",
+  "releaseMarket": {
+    "name": "나이키 대전 갤러리아 타임월드점",
+    "icon": "https://static.shoeprize.kr/site/icon/%EB%82%98%EC%9D%B4%ED%82%A4_%EB%8C%80%EC%A0%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%95%84_%ED%83%80%EC%9E%84%EC%9B%94%EB%93%9C%EC%A0%90-39dbd4b0-3889-11ed-abb3-021b959476ae.jpeg",
+    "channels": [
+      {
+        "type": "instagram",
+        "link": "https://instagram.com/nike_galleria_timeworld?igshid=ZDU1ZDhlY2E=",
+        "typeName": "인스타그램"
+      }
+    ]
+  },
+  "closedTimestamp": 1663808400000,
+  "product": {
+    "brandName": "NIKE",
+    "name": "나이키 덩크 로우 레트로 화이트 블랙",
+    "thumb": "https://static.shoeprize.kr/Raffle/thumb/DD1391-100-shoeprize-NIKE-DUNK-LOW-RETRO-WHITE-BLACK-413-1629349056698.jpg",
+    "code": "DD1391-100"
+  },
+  "shippingMethod": "매장 수령",
+  "payMethod": "오프라인 구매"
+}

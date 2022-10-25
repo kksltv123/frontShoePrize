@@ -1,0 +1,38 @@
+{
+  "uuid": "6ce0a858-898c-4a22-a02c-196ac6cb87e5",
+  "type": 1,
+  "method": "당첨 메일 발송",
+  "url": "https://track.flexlinkspro.com/g.ashx?foid=156100.10319&trid=1287938.191237&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fde.afew-store.com%2Fproducts%2Fnike-dunk-low-retro-white-black-white",
+  "mission": "1. 공식 인스타그램 팔로우 필수\r\n- @afewstore\r\n\r\n2. 페이팔 결제 필요",
+  "price": "€100",
+  "releaseMarket": {
+    "name": "AFEW-STORE",
+    "icon": "https://static.shoeprize.kr/site/icon/AFEW-STORE-cf3571e4-5313-11ec-8ecc-0abb6fb3d682.jpg",
+    "channels": [
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/afewstore",
+        "typeName": "트위터"
+      },
+      {
+        "type": "instagram",
+        "link": "https://www.instagram.com/afewstore/",
+        "typeName": "인스타그램"
+      },
+      {
+        "type": "homepage",
+        "link": "https://de.afew-store.com/collections/sneaker-releases?utm_source=shoeprize",
+        "typeName": "홈페이지"
+      }
+    ]
+  },
+  "closedTimestamp": 1664175600000,
+  "product": {
+    "brandName": "NIKE",
+    "name": "나이키 덩크 로우 레트로 화이트 블랙",
+    "thumb": "https://static.shoeprize.kr/Raffle/thumb/DD1391-100-shoeprize-NIKE-DUNK-LOW-RETRO-WHITE-BLACK-413-1629349056698.jpg",
+    "code": "DD1391-100"
+  },
+  "shippingMethod": "배대지",
+  "payMethod": "당첨 자동 결제"
+}
